@@ -1,0 +1,42 @@
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\a031047\Desktop\11-12-2016\SGHumanPROJECT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Isabel Azevedo\Desktop\SGHumanPROJECT\obj\Debug\Assembly-CSharp.pdb
